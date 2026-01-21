@@ -2,7 +2,6 @@
 
 ## About me
 - 🎓 I’m a PhD student at University of Southern California. I am interested in Autonomous system and Recommender System.
-- 🧪 I’m currently learning: Swift.
 - 🎾 My favorite hobby: Definitely Tennis🎾.
 
 ## What I want to learn next
